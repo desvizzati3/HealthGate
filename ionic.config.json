@@ -1,0 +1,7 @@
+{
+  "name": "healthgate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
